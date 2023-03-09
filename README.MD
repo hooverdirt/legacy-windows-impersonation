@@ -35,13 +35,13 @@ scripting effort associated with this as well).
 
 Conversation:
 
-Manager: "it's going to be too expensive". 
-Me: 'It's already costing support money to support this product in after hours 
+* Manager: "it's going to be too expensive".
+* Me: 'It's already costing support money to support this product in after hours 
 hours support, and it will only get worse..'.
-Manager giving in: "What do you need?"
-Me: "I need Trent (the original product developer) for the scripting and installer part"<sup>1</sup>
-Manager: "We're going to redo the installer??"
-Me: "We need to get rid of that crazy ass hourglass"
+* Manager giving in: "What do you need?"
+* Me: "I need Trent (the original product developer) for the scripting and installer part"<sup>1</sup>
+* Manager: "We're going to redo the installer??"
+* Me: "We need to get rid of that crazy ass hourglass"
 
 <sup>1 I'm not 100% certain if Trent worked on the new installer but I'm pretty certain I 
 talked to him about this.</sup>
