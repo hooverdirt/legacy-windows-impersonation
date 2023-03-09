@@ -1,8 +1,9 @@
 DISCLAIMER
 ==========
 This is a portion of a POC code that I wrote in (I'd say) 2009. It demoes the
-use of impersonation to get user-specific information
-Note that most likely, in the age of Win64 you'd have to slightly do other 
+use of impersonation to get user-specific information.
+
+Note:  that most likely, in the age of Win64 you'd have to slightly do other 
 things to get there.
 
 Code written by myself, in my spare time on my own hardware - no work code was 
