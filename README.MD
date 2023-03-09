@@ -72,4 +72,4 @@ Anyway - I have the feeling it took less than the two weeks but we did take
 out that crazy ass hourglass. Personally - The project itself was seen as one of the
 best projects we worked on. I think that this was because it was an extremely high-risk change: we had sort of an idea what 
 was happening but were not totally certain. Additionally, we were to throw out old code and replace it with a new
-set of executables, installer and scripts. Eventually, the POC proved we were on the right track and managed to fix the software and pusj "The Product" for many other years.
+set of executables, installer and scripts. Eventually, the POC proved we were on the right track and managed to fix the software and push "The Product" for many other years.
