@@ -63,6 +63,7 @@ was:
 7. Write PDF information
 8. Hand userfolder information over to the code that Trent would work on (registry I think?)
 9. The script code would do the essential part by pointing "The Product" to the location of the PDF information.
+9. The script code would also provide compatibility with older versions of the software and "The Product"
 9. Test with customer
 10. Done and deploy to prod
 11. Happy support and customers
