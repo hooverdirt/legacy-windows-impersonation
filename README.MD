@@ -1,5 +1,5 @@
 DISCLAIMER
-
+==========
 This is a portion of a POC code that I wrote in (I'd say) 2009. It demoes the
 use of impersonation to get user-specific information
 Note that most likely, in the age of Win64 you'd have to slightly do other 
@@ -9,11 +9,12 @@ Code written by myself, in my spare time on my own hardware - no work code was
 used to demo Impersonation.
 
 Introduction
-
+============
 Get handle and pid, will impersonate. Once again - most likely this won't
 work on newer Windows versions.
 
 History
+==========
 
 Prelude:
 
@@ -46,7 +47,7 @@ Conversation:
 talked to him about this.</sup>
 
 The solution:
-
+=============
 The issue was that redmon/ghostscript typically runs under a system account
 because (tadaa) it's a driver. A system account does not have any knowledge
 of a user's account, let alone user specific directory information. The idea
