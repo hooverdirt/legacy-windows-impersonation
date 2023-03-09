@@ -38,7 +38,7 @@ scripting effort associated with this as well).
 Conversation:
 
 * Manager: "it's going to be too expensive".
-* Me: 'It's already costing support money to support this product in after hours support, and it will only get worse..'.
+* Me: 'It's already costing the support team money to fix installations after hours and it will only get worse..'.
 * Manager giving in: "What do you need?"
 * Me: "I need Trent (the original product developer) for the scripting and installer part"<sup>1</sup>
 * Manager: "We're going to redo the installer??"
